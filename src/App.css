@@ -1,0 +1,14 @@
+/*****************/
+/* GLOBAL STYLES */
+/*****************/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-padding-top: 100px;
+  -ms-overflow-style: none;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
